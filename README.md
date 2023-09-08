@@ -2,4 +2,4 @@ This repository is an archive of a Discord bot I made from scratch starting in l
 This will most likely not work anymore due to package updates and overall Discord API changes.
 
 At that point in time, this was my biggest project from lines of code, to entirely new concepts I have never tried before.
-I wanted to publish this to show my experience with APIs, code libraries such as Node.js, databases like MongoDB, failsafes, and self-teaching abilities. 
+I wanted to publish this to show my experience with APIs, code libraries and packages, databases like MongoDB, failsafes, and self-teaching abilities. 
